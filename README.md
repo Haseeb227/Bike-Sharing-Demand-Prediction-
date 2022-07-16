@@ -6,10 +6,15 @@ areas. If we can predict the short-run bike-sharing demand, it will help operati
 
 bike-sharing systems in a timely and efficient way.
 We have performed following steps while building the model:
+
    Exploratory data analysis
+  
    Feature Engineering
+  
    Training the model and Hyperparameter tuning
+  
    Evaluating the ML model performance
+  
    Conclusions
 
 Exploratory data analysis:
